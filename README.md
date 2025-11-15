@@ -14,9 +14,9 @@ An AI-powered web application that detects potato blight diseases using machine 
 ## Screenshots
 
 #### UI
-https://github.com/user-attachments/assets/2a9c760f-8e35-43ea-9600-aa1470fc733b
-https://github.com/user-attachments/assets/ffc14633-175e-40f3-9708-140a84d2e55d
-https://github.com/user-attachments/assets/d7f765b7-37ad-4cb1-a44f-6c016007501a
+![Home](https://github.com/user-attachments/assets/2a9c760f-8e35-43ea-9600-aa1470fc733b)
+![Analyzing Disease](https://github.com/user-attachments/assets/ffc14633-175e-40f3-9708-140a84d2e55d)
+![Results](https://github.com/user-attachments/assets/d7f765b7-37ad-4cb1-a44f-6c016007501a)
 
 ## 🚀 Quick Start
 
